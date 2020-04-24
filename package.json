@@ -1,0 +1,22 @@
+{
+  "name": "code-smells",
+  "version": "1.0.0",
+  "description": "Examples of code smells in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qayou/code-smells.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qayou/code-smells/issues"
+  },
+  "homepage": "https://github.com/Qayou/code-smells#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
